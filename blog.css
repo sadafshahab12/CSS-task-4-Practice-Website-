@@ -1,0 +1,24 @@
+#blog{
+    background-color:#2a2a2a;
+    margin: 0.5rem 1rem;
+    height: 27rem;
+    border-radius: 0.75rem;
+    }
+  .blog-head {
+    color: #5996a2;
+    padding: 2rem 0rem 1rem 0rem;
+    border-bottom: 2px solid #5996a2;
+    margin: 1rem 2rem 1rem 2rem;
+  }
+  .blog-sub-head{
+    color:#5996a2;
+    margin: 1.5rem 2rem 2rem 2rem;
+    border-bottom: 2px solid #5996a2;
+    padding-bottom: 1rem;
+    
+  }
+  .blog-para {
+    color: white;
+    margin: 2rem 0rem 0rem 2rem;
+    padding-bottom: 2rem;
+  }

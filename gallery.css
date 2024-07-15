@@ -1,0 +1,27 @@
+#gallery {
+  background-color: #3a3a3a;
+  margin: 0.5rem 1rem;
+  height: 18rem;
+  border-radius: 0.75rem;
+}
+.gallery-head {
+  color: #519ba8;
+  padding: 2rem 0rem 1rem 0rem;
+  border-bottom: 2px solid #519ba8;
+  margin: 1rem 2rem 0rem 2rem;
+}
+.boxes {
+  display: inline-block;
+  position: static;
+}
+.gallery-box {
+  display: inline-block;
+  color: white;
+  margin: 1rem 0rem 1rem 2rem;
+  background-color: rgb(204, 204, 202);
+  height: 10rem;
+  width: 10rem;
+  text-align: center;
+  padding-top: 4.5rem;
+  border-radius: 1rem;
+}
